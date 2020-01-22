@@ -1,4 +1,14 @@
 # Cisco AMP for Endpoint Duplicate Finder
 
-More to come
+## Requirements
 
+For Mac: 
+´´´
+brew install pyqt5
+´´´
+
+## Run
+
+´´´
+python3 main.py
+´´´
